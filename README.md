@@ -1,1 +1,1 @@
-An old school space shooter game.
+A project undertaken to create an old school style 2D space alien shooter game.
